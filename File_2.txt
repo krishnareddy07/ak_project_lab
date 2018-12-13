@@ -4,3 +4,4 @@ flows
 process builders
 sandbox
 scracth org
+Sfdx force:org list
